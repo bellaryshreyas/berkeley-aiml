@@ -1,3 +1,5 @@
+## conclusions:
+
 Bar coupons:
 - the baseline acceptance rate for bar coupons was about 41%
 - in general, those who go to bars 3 or fewer times per month only accepted the bar coupons around 37% of the time, vs the nearly 77% acceptance rate by those who go to bars 4 or more times a month
